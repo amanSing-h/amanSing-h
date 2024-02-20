@@ -1,4 +1,5 @@
 ### Hi there 👋
+How to reach me: https://www.linkedin.com/in/aman--kumar/
 
 <!--
 **amanSing-h/amanSing-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
